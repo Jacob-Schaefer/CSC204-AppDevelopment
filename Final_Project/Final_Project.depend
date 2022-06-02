@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1648920029 source:c:\users\jaysc\codeblockssource\app_development\final_project\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"patientData.h"
+	"patient.h"
+	"doctorData.h"
+
+1646765474 source:c:\users\jaysc\codeblockssource\app_development\final_project\infirmary.cpp
+	"Infirmary.h"
+
+1646765423 c:\users\jaysc\codeblockssource\app_development\final_project\infirmary.h
+	<iostream>
+	<string>
+
+1648920654 c:\users\jaysc\codeblockssource\app_development\final_project\patientdata.h
+	"patient.h"
+
+1648745011 c:\users\jaysc\codeblockssource\app_development\final_project\patient.h
+	<string.h>
+	<iostream>
+
+1648921361 source:c:\users\jaysc\codeblockssource\app_development\final_project\patientdata.cpp
+	"patientData.h"
+	"patient.h"
+	"doctorData.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
+1648747125 c:\users\jaysc\codeblockssource\app_development\final_project\doctordata.h
+	<string.h>
+	<iostream>
+
+1648747175 source:c:\users\jaysc\codeblockssource\app_development\final_project\doctordata.cpp
+	"doctorData.h"
+	<iostream>
+	<string.h>
+	"patient.h"
+
